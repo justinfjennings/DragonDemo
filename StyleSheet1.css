@@ -1,0 +1,92 @@
+﻿.header {
+    background-color: darkkhaki;
+    outline: thin solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+.nav {
+    background-color: darkcyan;
+    outline: thin solid black;
+    text-align: center;
+    vertical-align: top;
+    color: white;
+}    
+
+.section {
+    background-color: gray;
+    outline: thin solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+.article {
+    background-color: purple;
+    outline: thin solid black;
+    text-align: center;
+    vertical-align: top;
+    color: white;
+}
+
+.aside {
+    background-color: cyan;
+    outline: thin solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+.footer {
+    background-color: darkgoldenrod;
+    outline: thin solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+.color1 {
+    background-color: darkblue;
+}
+
+.color2 {
+    background-color: darkcyan;
+}
+
+.color3 {
+    background-color: darkgoldenrod;
+}
+
+.color4 {
+    background-color: darkgray;
+}
+
+.color5 {
+    background-color: darkkhaki;
+}
+
+.color6 {
+    background-color: purple;
+}
+
+.color7 {
+    background-color: darkolivegreen;
+}
+
+.color8 {
+    background-color: rebeccapurple;
+}
+
+.color9 {
+    background-color: orange;
+}
+
+.color10 {
+    background-color: cyan;
+}
+
+.color11 {
+    background-color: mediumpurple;
+}
+
+.color12 {
+    background-color: darkred;
+}
+
